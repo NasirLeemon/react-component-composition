@@ -42,19 +42,19 @@
 }
 
 .first-item {
-    /* background-image: url('/shape-voice/public/images/1.png'); */
+    /* background-image: url('.../images/1.png'); */
     background-repeat: no-repeat;
     background-position: right top;
 }
 
 .second-item {
-    /* background-image: url('/images/2.png'); */
+    /* background-image: url('.../images/2.png'); */
     background-repeat: no-repeat;
     background-position: right top;
 }
 
 .third-item {
-    /* background-image: url('/images/3.png'); */
+    /* background-image: url('.../images/3.png'); */
     background-repeat: no-repeat;
     background-position: right top;
 }
