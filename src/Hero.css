@@ -1,0 +1,116 @@
+
+
+.hero-area {
+    margin: 40px 0;
+}
+
+.hero {
+    display: flex;
+    margin: 100px 15%;
+    justify-content: space-between;
+}
+
+.hero-text {
+    width: 40%;
+}
+
+.hero-title {
+    font-weight: 800;
+    margin-bottom: 25px;
+}
+
+.hero-description {
+    color: #64607D;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.hero-links {
+    display: flex;
+}
+
+.hero-btn {
+    background-color: #4F46BA;
+    border: none;
+    border-radius: 22px;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hero-btn:hover {
+    border: 1px solid rgb(95, 94, 94);
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+}
+
+.hero-links i {
+    color: #22D497;
+}
+
+.hero-links i {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.hero-links a {
+    color: #3734A9;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+
+.hero-form {
+    width: 40%;
+}
+
+.hero-form p {
+    font-size: 20px;
+    font-weight: 600;
+    color: #3734A9;
+    margin-bottom: 5px;
+}
+
+.hero-form input[type=text] {
+    display: block;
+    width: 80%;
+    padding: 14px 20px;
+    margin: 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.hero-form input[type=submit] {
+    font-weight: 600;
+    width: 80%;
+    background-color: #FF7F5C;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #f8572b;
+}
+
+
+.trusted-companies {
+    text-align: center;
+}
+
+.trusted-title {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.trusted-images {
+    margin-left: 40px;
+}

@@ -1,0 +1,61 @@
+
+
+
+.footer{
+    display: flex;
+    margin: 100px 40px;
+}
+
+.footer-items{
+    width: 50%;
+    margin-left: 40px;
+}
+
+.footer-items-title{
+    font-size: 21px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.ar-shakir p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #757095;
+    margin-bottom: 10px;
+}
+
+.ar-shakir-icons i{
+    color: #3734A9;
+    margin-right: 10px;
+}
+
+.companies ul li{
+    list-style-type: none;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 10px;
+
+}
+
+.Resources ul li {
+    list-style-type: none;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.news-letter input[type=email]{
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+
+.news-letter button{
+    margin-bottom: 10px;
+}
+
+.news-letter p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #181433;
+
+}
